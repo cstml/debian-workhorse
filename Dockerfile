@@ -9,7 +9,8 @@ RUN  apt install -y curl\
                     vim\
                     npm\
                     postgresql \ 
-                    zsh
+                    zsh \
+                    emacs
 
 
 # Set the workdir
